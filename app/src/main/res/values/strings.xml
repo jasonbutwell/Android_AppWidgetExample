@@ -1,4 +1,8 @@
 <resources>
     <string name="app_name">AppWidgetExample</string>
     <string name="action_settings">Settings</string>
+
+    <string name="empty_string">List view is empty</string>
+    <string name="appwidget_text">EXAMPLE</string>
+    <string name="add_widget">Add widget</string>
 </resources>
